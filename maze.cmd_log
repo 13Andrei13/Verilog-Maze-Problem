@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Facultate anu 3 sem 1/AC/maze/maze.xst" -ofn "D:/Facultate anu 3 sem 1/AC/maze/maze.syr" 
+xst -intstyle ise -ifn "D:/Facultate anu 3 sem 1/AC/maze/maze.xst" -ofn "D:/Facultate anu 3 sem 1/AC/maze/maze.syr" 
